@@ -1,0 +1,20 @@
+export default {
+    noList: "You don't have any list created",
+    addNewList: 'Add new list',
+    myTodoList: 'My Todo List',
+    errorMsg: 'Please enter task',
+    localStorageKey: 'MyTodoList',
+    confirmationMsg: 'Are you sure you want to delete the task:',
+    placeholder: 'Enter your task.....',
+    cancel: 'Cancel',
+    ok: 'Ok',
+    colorCodes: {
+        white: '#fff',
+        themeColor: '#346398',
+        tomato: '#FF6347',
+        lightThemeColor: '#e9f2fb',
+        snowWhite: '#f5f5f5',
+        lightRed: '#ffe6e6',
+        lightGreen: '#ebfaeb',
+    },
+}
